@@ -1,0 +1,74 @@
+{
+    "properties": [
+        {
+            "id": "32849",
+            "name": "STF Vandrarhem Stigbergsliden",
+            "city": {
+                "id": "1530",
+                "name": "Gothenburg",
+                "country": "Sweden",
+                "idCountry": "202"
+            },
+            "latitude": "57.6992285",
+            "longitude": "11.9368171",
+            "type": "HOSTEL",
+            "images": [
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/3/32849/7"
+                },
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/3/32849/1"
+                },
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/3/32849/2"
+                },
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/3/32849/3"
+                }
+            ],
+            "overallRating": {
+                "overall": 82,
+                "numberOfRatings": 400
+            }
+        },
+        {
+            "id": "40919",
+            "name": "Backpackers Göteborg",
+            "city": {
+                "id": "1530",
+                "name": "Gothenburg",
+                "country": "Sweden",
+                "idCountry": "202"
+            },
+            "latitude": "57.6928413",
+            "longitude": "11.9479107",
+            "type": "HOSTEL",
+            "images": [
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/4/40919/5"
+                },
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/4/40919/1"
+                },
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/4/40919/2"
+                },
+                {
+                    "suffix": ".jpg",
+                    "prefix": "http://ucd.hwstatic.com/propertyimages/4/40919/3"
+                }
+            ],
+            "overallRating": {
+                "overall": 82,
+                "numberOfRatings": 884
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+   "id":"32849",
+   "name":"STF Vandrarhem Stigbergsliden",
+   "rating":{
+      "overall":82,
+      "atmosphere":71,
+      "cleanliness":86,
+      "facilities":80,
+      "staff":95,
+      "security":87,
+      "location":77,
+      "valueForMoney":81
+   },
+   "bestFor":[
+
+   ],
+   "description":"Set in a listed building...",
+   "latitude":"57.6992285",
+   "longitude":"11.9368171",
+   "address1":"Stigbergsliden 10",
+   "address2":"",
+   "directions":"Public transportation: Take the tram number 3, ...",
+   "city":{
+      "id":"1530",
+      "name":"Gothenburg",
+      "country":"Sweden",
+      "idCountry":"202"
+   },
+   "paymentMethods":[
+      "Visa",
+      "Mastercard"
+   ],
+   "policies":[
+      "Child Friendly",
+      "Credit Cards Accepted",
+      "No Curfew",
+      "Non Smoking",
+      "Pet Friendly",
+      "Taxes Included"
+   ],
+   "totalRatings":"400",
+   "images":[
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/7"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/1"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/2"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/3"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/4"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/6"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/501"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/502"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/503"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/504"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/505"
+      },
+      {
+         "suffix":".jpg",
+         "prefix":"http:\/\/ucd.hwstatic.com\/propertyimages\/3\/32849\/506"
+      }
+   ],
+   "type":"HOSTEL",
+   "depositPercentage":19,
+   "associations":[
+      "YHA"
+   ],
+   "checkIn":{
+      "startsAt":"14",
+      "endsAt":"17"
+   }
+}
