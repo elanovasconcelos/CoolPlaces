@@ -1,0 +1,1 @@
+CoolPlaces is a SwiftUI-based iOS application that allows users to browse and view detailed information about various properties. Leveraging a robust MVVM architecture, the app ensures a clean separation of concerns, maintainability, and scalability. Comprehensive testing, including unit and snapshot tests, guarantees reliability and a consistent user experience.
